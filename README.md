@@ -1,7 +1,6 @@
 # 📊 Superstore Sales Dashboard & Forecasting
 
 ## 🎯 Aim
-
 The goal of this project is to perform comprehensive sales analysis and short-term forecasting using a Superstore dataset. By building an interactive Power BI dashboard, we aim to:
 
 * Understand regional and product-level sales patterns
@@ -11,9 +10,8 @@ The goal of this project is to perform comprehensive sales analysis and short-te
 
 PowerBI Dashboard containing Sales Data
 <h1 align="center">
-  <img alt="Home page" title="Dashboard" src="https://github.com/shubhanshushubham/Dashboard-Sales/blob/main/home.png" />
-   <img alt="Home page" title="Dashboard" src="https://github.com/shubhanshushubham/Dashboard-Sales/blob/main/pridict.png" />
-  
+<img width="1<img width="1318" height="732" alt="home" src="https://github.com/user-attachments/assets/8b5b3963-99ae-4e60-8589-b30e55127c31" />
+<img width="1326" height="738" alt="pridict" src="https://github.com/user-attachments/assets/3fb561a3-8c18-4517-a4fb-2ab1d1fd3139" />
 </h1>
 Here’s a professional, insight-driven `README.md` tailored for your **Superstore Sales Dashboard** project, based on the visuals you shared:
 
